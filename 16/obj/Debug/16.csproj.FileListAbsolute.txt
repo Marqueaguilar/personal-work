@@ -1,0 +1,14 @@
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\16.csprojAssemblyReference.cache
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\MainWindow.g.cs
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\App.g.cs
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\16_MarkupCompile.cache
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\16_MarkupCompile.lref
+C:\Users\MaconRM180\Documents\marque\16\16\bin\Debug\16.exe.config
+C:\Users\MaconRM180\Documents\marque\16\16\bin\Debug\16.exe
+C:\Users\MaconRM180\Documents\marque\16\16\bin\Debug\16.pdb
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\MainWindow.baml
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\16.g.resources
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\_16.Properties.Resources.resources
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\16.csproj.GenerateResource.cache
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\16.exe
+C:\Users\MaconRM180\Documents\marque\16\16\obj\Debug\16.pdb
