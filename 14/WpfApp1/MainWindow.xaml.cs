@@ -13,11 +13,9 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfApp1
+namespace _20
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+   
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -27,31 +25,8 @@ namespace WpfApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //DateTime myDate = DateTime.Now;
-
-            //LabelDate.Content = myDate.ToString();
-            //LabelDate.Content = myDate.ToLongDateString();
-            //LabelDate.Content = myDate.ToLongTimeString();
-            //LabelDate.Content = myDate.ToShortDateString();
-            //LabelDate.Content = myDate.ToShortTimeString();
-
-            //LabelDate.Content = myDate.AddDays(2).ToString();
-            //LabelDate.Content = myDate.AddMonths(-2).ToString();
-
-            //LabelDate.Content = myDate.IsDaylightSavingTime().ToString();
-            //LabelDate.Content = myDate.DayOfWeek.ToString();
-
-            //DateTime myDate = DateTime.Parse("12/09/1963");
-
-            DateTime myDate = new DateTime(1963, 12, 9);
-            LabelDate.Content = myDate.ToString();
-
-
-
-
-
-
-
+            string result = string.Format("Thank you, {0} your soical security number is {1:000-00-0000}, {2} is your phone number.", namewrite.Text , ssnonum.Text , phonenum.Text );
+            LabelResult.Content = result;     
         }
     }
 }
